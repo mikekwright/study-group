@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/billzabob-study-group-3pd5ljqv/lab/tree/notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Billzabob/study-group/master?urlpath=lab%2Ftree%2Fnotebooks%2Fmonads.ipynb)
