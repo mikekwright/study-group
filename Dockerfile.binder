@@ -8,6 +8,6 @@ RUN apt-get update & \
 
 USER $NB_UID
 
-COPY binder/postBuild /postBuild
+COPY scripts/postBuild /postBuild
 RUN /postBuild
 
