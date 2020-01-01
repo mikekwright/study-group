@@ -1,6 +1,6 @@
-FROM almondsh/almond:latest
+FROM mikewright/scala-binder
 
-USER root
 USER $NB_UID
 
 COPY --chown=1000:100 notebooks/ $HOME
+
